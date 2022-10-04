@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/bpinf5o3y6ra6eon?svg=true)](https://ci.appveyor.com/project/paveldm744/api)
+
 # aqa-code
 Код с лекций Автоматизация тестирования
 
